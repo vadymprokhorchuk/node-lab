@@ -1,0 +1,12 @@
+{
+  "name": "labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^6.1.5"
+  }
+}
